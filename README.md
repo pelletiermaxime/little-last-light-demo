@@ -1,14 +1,18 @@
 # Little Last Light
 
-A tiny Godot prototype: turn up a lantern to earn energy faster, attract more creatures, and watch an automatic turret defend it.
+A tiny Godot prototype with short survival runs: dodge creatures near fixed turrets, earn energy, and improve your defenses between attempts.
 
 ## Play
 
 https://pelletiermaxime.github.io/little-last-light-demo/
 
-Click the game to focus it, then press **Space** to cycle Low, Medium, and High brightness. Refresh the page to restart.
+Click the game to focus it. During preparation, press **Enter** or click **Start run**. Use **WASD / arrow keys** to move and **Space** to cycle Low, Medium, and High brightness. Higher brightness earns more energy and attracts more creatures.
 
-This is an early experiment: enemies do not damage the lantern yet, and progress is not saved.
+After a run, spend saved energy on turrets with **B**, then click inside the arena to place them. Click an existing turret to move it for free. **Escape** cancels placement. Turrets stay in place during runs; enemies get stronger and faster over time.
+
+Energy and turret layouts are saved locally in your browser. Use the same browser profile and website to continue; clearing site data removes that progress. Saves do not sync between devices or with the native game.
+
+Current release: **Milestone 4**, exported from source commit `545f119` (`milestone-4`). The UI and difficulty are still being refined.
 
 ## About this repository
 
