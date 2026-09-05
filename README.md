@@ -12,7 +12,7 @@ After a run, spend saved energy on turrets with **B**, then click inside the are
 
 Energy and turret layouts are saved locally in your browser. Use the same browser profile and website to continue; clearing site data removes that progress. Saves do not sync between devices or with the native game.
 
-Current release: **Milestone 4 with subsequent updates**, exported from source commit `8e88823`. The top-left FPS counter updates once per second during preparation and runs. The UI and difficulty are still being refined.
+Current release: **Milestone 5 — clarity and feel**, exported from source commit `4920a76` (`milestone-5`). The sidebar includes a health bar, run earnings, clickable Low / Medium / High brightness choices, and a survival/earnings recap with next-turret affordability. The top-left FPS counter updates once per second during preparation and runs. The UI and difficulty are still being refined.
 
 ## About this repository
 
