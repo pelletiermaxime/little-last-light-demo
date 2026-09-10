@@ -1,6 +1,7 @@
 Little Last Light — Third-party notices
 
-The game license in LICENSE.txt applies to original Little Last Light content.
+Original Little Last Light code and assets are licensed under GPL-3.0-only;
+see LICENSE.txt and the copyright and license notice in README.md.
 The components below retain their own licenses and permissions.
 
 Godot Engine
@@ -55,5 +56,4 @@ Original notices are retained in the source tree at:
 - audio/kenney/impact/License.txt
 - audio/kenney/scifi/License.txt
 
-These sounds retain their CC0 permissions; the original game's restrictions
-do not apply to them.
+These sounds retain their CC0 permissions.
